@@ -1,6 +1,6 @@
 # Resume-to-JD Matching Agent
 
-**[Live demo](https://resume-matcher-hsm7.onrender.com)** — hosted on Render (free tier; first load may take ~50s to wake)
+**[Live demo](https://resume-matcher-hsm7.onrender.com/)** — hosted on Render (free tier; first load may take ~50s to wake)
 
 A teaching project that scores resume PDFs against a job description using
 the Claude API.
@@ -200,7 +200,7 @@ optional bias audit toggle) in the browser:
 uv run streamlit run app.py
 ```
 
-This is what's deployed live (see [render.yaml](render.yaml)).
+This is what's deployed live (see [render.yaml](https://resume-matcher-hsm7.onrender.com/)).
 
 ## Test
 
